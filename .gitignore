@@ -1,0 +1,67 @@
+# OS-generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor settings
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Python cache and build outputs
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+pip-log.txt
+pip-wheel-metadata/
+.pytest_cache/
+.cache/
+.mypy_cache/
+.pyre/
+.pytype/
+.ruff_cache/
+.tox/
+.nox/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+*.cover
+*.py,cover
+dist/
+build/
+develop-eggs/
+.eggs/
+*.egg-info/
+*.egg
+*.manifest
+*.spec
+__pypackages__/
+site/
+.ipynb_checkpoints
+
+# Environment & secrets
+.env
+.env.*
+*.env
+*.pem
+
+# JS/Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs & temp
+*.log
+*.tmp
+*.swp
+*.swo
